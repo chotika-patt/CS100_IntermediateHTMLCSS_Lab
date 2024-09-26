@@ -28,6 +28,7 @@ header p {
 nav {
     background-color: #ffa41b;
     padding: 15px;
+    padding-top: 30px;
     text-align: center;
 }
 
@@ -38,8 +39,8 @@ nav ul {
 }
 
 nav ul li {
-    display: inline-block;
-    margin: 0 15px;
+    display: block;
+    margin: 25px 0px;
 }
 
 nav ul li a {

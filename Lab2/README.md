@@ -46,6 +46,10 @@ nav ul li {
   - Adjust the `display` property so that it displays list items vertically
   - Adjust the margin so that it looks appropriate (more spacing between list items).
 ```css
+nav ul li {
+    display: block;
+    margin: 25px 0px;
+}
 ```
 
 - Modify the CSS `nav` style:
@@ -54,6 +58,7 @@ nav ul li {
    - Make the sidebar extend to the full height of the viewport.
    - Add padding to the top of the navigation content.
 ```css
+
 ```
 
 ---
